@@ -63,6 +63,15 @@ main {
   margin-bottom: 2rem;
 }
 
+.overview h1 {
+  font-size: 2rem;
+  font-family: Verdana;
+}
+
+.overview p {
+  color: #363636;
+}
+
 .place-container {
   width: 95%;
   margin: 1rem auto;
