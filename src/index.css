@@ -120,15 +120,17 @@ main {
   border: none;
   width: 100%;
   margin-top: 1rem;
-  padding: 0.3rem;
+  padding: 0.5rem;
   font-weight: bold;
   background-color: green;
   color: white;
-  border-radius: 1rem;
+  border-radius: 5px;
   font-size: 1.2rem;
   cursor: pointer;
 }
 
 .hide-button {
-  background-color: red;
+  background-color: #dedede;
+  color: black;
+  border: 1px solid black;
 }
